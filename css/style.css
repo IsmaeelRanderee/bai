@@ -133,6 +133,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 .navbar {
     border-bottom: 1px solid rgba(255, 255, 255, .5);
+    background-color: rgba(255, 255, 255, 0);
 }
 
 .navbar .navbar-nav .nav-link {
@@ -199,7 +200,7 @@ h4, h5, h6, .h4, .h5, .h6 {
     margin-bottom: 6rem;
     padding-top: 15rem;
     padding-bottom: 6rem;
-    background: url("../img/Hero1.png"), center center no-repeat;
+    background: url("../img/HeroCollage2.png"), center center no-repeat;
     background-size: cover;
 }
 
