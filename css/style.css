@@ -200,7 +200,7 @@ h4, h5, h6, .h4, .h5, .h6 {
     margin-bottom: 6rem;
     padding-top: 15rem;
     padding-bottom: 6rem;
-    background: url("../img/HeroCollage2.png"), center center no-repeat;
+    background: url("../img/HeroCollage2.png") center center no-repeat;
     background-size: cover;
 }
 
@@ -212,6 +212,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 @media (max-width: 992px) {
     .hero-header {
         padding-top: 12rem;
+        background-image: url("../img/Copy\ of\ HeroCollage2Mobile.png"); /* Mobile-specific image */
     }
 }
 
@@ -219,6 +220,7 @@ h4, h5, h6, .h4, .h5, .h6 {
     font-size: 18px;
 }
 /*** Hero Header ***/
+
 
 /*** Hero Header About***/
 .hero-header-about {
